@@ -22,4 +22,6 @@ function dec(){
   
 }
 
-fucntion
+fucntion makeInt(){
+  
+}
