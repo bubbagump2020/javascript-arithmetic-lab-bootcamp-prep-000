@@ -14,4 +14,12 @@ function divide(){
   
 }
 
-function
+function inc(){
+  
+}
+
+function dec(){
+  
+}
+
+fucntion
