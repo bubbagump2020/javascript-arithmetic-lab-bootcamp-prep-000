@@ -5,3 +5,13 @@ function add(a, b){
 function substract (a, b){
   return a - b
 }
+
+function multiply(){
+  
+}
+
+function divide(){
+  
+}
+
+function
